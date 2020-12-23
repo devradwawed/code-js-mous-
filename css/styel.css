@@ -1,0 +1,13 @@
+body{
+  background-color:#080204 ;
+  cursor: none;
+}
+
+
+#myImg{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+/* # */
